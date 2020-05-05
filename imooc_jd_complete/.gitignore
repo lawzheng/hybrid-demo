@@ -1,0 +1,6 @@
+# ---> VisualStudioCode
+.settings
+
+node_modules/
+
+
